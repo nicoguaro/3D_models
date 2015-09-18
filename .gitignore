@@ -1,0 +1,9 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Python
+*.pyc
+
+# FreeCAD
+*.[Ff]c[Ss]td1
