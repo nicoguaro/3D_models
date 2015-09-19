@@ -4,3 +4,11 @@ So far I have included:
 - [Chess pieces](https://github.com/nicoguaro/3D_models/tree/master/chess)
 - [Cup holder](https://github.com/nicoguaro/3D_models/tree/master/cup_holder)
 - [Mana item](https://github.com/nicoguaro/3D_models/tree/master/mana_item)
+
+
+## License
+
+The code is licensed under an [MIT License](./LICENSE.md) and the other documents are under Creative Commons License
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
