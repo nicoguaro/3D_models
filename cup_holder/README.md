@@ -4,4 +4,4 @@ These images shows how it works
 
 ![16 Oz cup with holder.](./img/cup_with_cup_holder.jpg)
 
-![16 Oz cup with holder, filled with coffee.](.img/cup_holder_and_coffee.jpg)
+![16 Oz cup with holder, filled with coffee.](./img/cup_holder_and_coffee.jpg)
